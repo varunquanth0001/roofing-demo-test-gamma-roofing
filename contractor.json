@@ -1,0 +1,439 @@
+{
+  "demo": false,
+  "testOnly": true,
+  "meta": {
+    "title": "TEST SITE · Gamma Roofing | Roofing in Gammaport, ZZ",
+    "description": "Gamma Roofing: metal roofing, shingle roofing and skylight installation for homes and businesses in Gammaport, Test East and Test West. Free estimates.",
+    "robots": "noindex,nofollow,noarchive"
+  },
+  "brand": {
+    "accent": "#d2432c",
+    "accentDeep": "#b5361f",
+    "section": "#cf422c"
+  },
+  "business": {
+    "name": "Gamma Roofing",
+    "shortName": "Gamma Roofing",
+    "wordmark": "Gamma Roofing",
+    "phone": null,
+    "phoneE164": null,
+    "email": "hello@gamma-roofing.invalid",
+    "address": null,
+    "hours": null,
+    "legal": "TEST SITE · fictional business, not a real company",
+    "social": []
+  },
+  "nav": {
+    "services": "Services",
+    "work": "Reviews",
+    "areas": "Areas",
+    "crew": "Team",
+    "process": "Process",
+    "faq": "FAQ",
+    "cta": "Free estimate"
+  },
+  "drawer": {
+    "title": "What we do",
+    "link": "All services →",
+    "areasTitle": "Areas we serve",
+    "cards": [
+      {
+        "img": "service-windows",
+        "badge": "Metal",
+        "title": "Metal roofing",
+        "meta": "Gammaport"
+      },
+      {
+        "img": "ba-worn-after",
+        "badge": "Shingle",
+        "title": "Shingle roofing",
+        "meta": "Gammaport"
+      },
+      {
+        "img": "service-roof-replacement",
+        "badge": "Skylights",
+        "title": "Skylight installation",
+        "meta": "Gammaport"
+      }
+    ],
+    "promo": {
+      "kicker": "Free estimate",
+      "title": "Get a free roof inspection",
+      "line": "Your roof is inspected and photographed, then you get a detailed proposal.",
+      "button": "Book it"
+    }
+  },
+  "hero": {
+    "eyebrow": "Roofing contractor · Gammaport, ZZ",
+    "title": "Roofing for<br /><mark class=\"hl\">Gammaport.</mark>",
+    "lead": "Metal roofing, shingle roofing and skylight installation for homes in Gammaport, Test East and Test West.",
+    "cta": "Book a free estimate",
+    "cta2": "See services",
+    "meta": null,
+    "chips": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "countLabel": "services",
+    "scrollHint": "Scroll to fly in",
+    "cursorLabel": "View service",
+    "featuredLabel": "Featured service",
+    "diveCta": "All services"
+  },
+  "jobs": [
+    {
+      "k": "roof",
+      "label": "Metal",
+      "em": "Free est.",
+      "type": null,
+      "town": "Gammaport, ZZ",
+      "title": "Metal roofing",
+      "img": "service-windows",
+      "line": "Fictional metal roofing description for testing only.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1240,
+        900
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Shingle",
+      "em": null,
+      "type": null,
+      "town": "Gammaport, ZZ",
+      "title": "Shingle roofing",
+      "img": "ba-worn-after",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        760,
+        520
+      ]
+    },
+    {
+      "k": "other",
+      "label": "Skylights",
+      "em": null,
+      "type": null,
+      "town": "Gammaport, ZZ",
+      "title": "Skylight installation",
+      "img": "service-roof-replacement",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1820,
+        1300
+      ]
+    }
+  ],
+  "stats": {
+    "eyebrow": "01 · Gamma Roofing",
+    "title": "Roofing in<br /><mark>Gammaport.</mark>",
+    "body": "Gamma Roofing serves Gammaport, Test East and Test West.",
+    "cta": "Get a free estimate",
+    "signs": [
+      {
+        "count": 3,
+        "label": "roofing services"
+      },
+      {
+        "count": 4,
+        "label": "service areas"
+      }
+    ],
+    "tickerLabel": "Why Gamma Roofing",
+    "tickerBadge": null,
+    "ticker": [
+      [
+        "Metal roofing",
+        ""
+      ],
+      [
+        "Shingle roofing",
+        ""
+      ],
+      [
+        "Skylight installation",
+        ""
+      ]
+    ]
+  },
+  "services": {
+    "eyebrow": "02 · Services",
+    "title": "What we<br /><mark>do.</mark>",
+    "cta": "Free estimate",
+    "countLabel": "services",
+    "linkLabel": "Book a free estimate",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "items": [
+      {
+        "f": "roof",
+        "big": true,
+        "tag": "Metal",
+        "img": "service-windows",
+        "title": "Metal roofing",
+        "sub": null,
+        "line": "Fictional metal roofing description for testing only.",
+        "specs": null,
+        "pin": [
+          "Gammaport",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Shingle",
+        "img": "ba-worn-after",
+        "title": "Shingle roofing",
+        "sub": null,
+        "line": null,
+        "specs": null,
+        "pin": [
+          "Gammaport",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "other",
+        "big": false,
+        "tag": "Skylights",
+        "img": "service-roof-replacement",
+        "title": "Skylight installation",
+        "sub": null,
+        "line": null,
+        "specs": null,
+        "pin": [
+          "Gammaport",
+          "free estimate"
+        ]
+      }
+    ]
+  },
+  "areas": {
+    "eyebrow": "03 · Areas we serve",
+    "title": "Gammaport and<br /><mark>nearby.</mark>",
+    "body": "Based in Gammaport. Pick a town to see it on the map.",
+    "cardLink": "Book a free estimate →",
+    "center": [
+      30,
+      46
+    ],
+    "items": [
+      {
+        "n": "Gammaport",
+        "c": "ZZ",
+        "x": 30,
+        "y": 46,
+        "img": "service-windows",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Gammaport."
+      },
+      {
+        "n": "Test East",
+        "c": "ZZ",
+        "x": 14,
+        "y": 26,
+        "img": "ba-worn-after",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Test East."
+      },
+      {
+        "n": "Test West",
+        "c": "ZZ",
+        "x": 44,
+        "y": 22,
+        "img": "service-roof-replacement",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Test West."
+      },
+      {
+        "n": "Test Harbor",
+        "c": "ZZ",
+        "x": 12,
+        "y": 64,
+        "img": "service-windows",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Test Harbor."
+      }
+    ]
+  },
+  "estimate": {
+    "eyebrow": "04 · Free estimate",
+    "title": "Tell us about<br /><mark class=\"dark\">your roof.</mark>",
+    "body": "Share a few details and we will follow up about your roof.",
+    "cardTitle": "Quick request",
+    "addressPlaceholder": "Street address",
+    "resultLabel": "Your roof",
+    "basis": "Free inspection in {town}",
+    "pricing": null,
+    "noPriceNote": "Material, roof height and pitch all affect the price. You get an exact price after an inspection, with no guesswork.",
+    "cta": "Book my free estimate",
+    "foot": "Free estimates"
+  },
+  "process": {
+    "eyebrow": "How it works · 4 steps",
+    "title": "4 steps,<br /><mark>start to finish.</mark>",
+    "counterLabel": "Step",
+    "steps": [
+      {
+        "t": "Get in touch",
+        "x": "Call the office or send the form below with a few details about your roof.",
+        "img": "ba-storm-before",
+        "vf": "Get in touch",
+        "pin": null,
+        "live": "Get in touch",
+        "chip": "Get in touch",
+        "flap": "GET IN TOU"
+      },
+      {
+        "t": "Inspection",
+        "x": "The roof is looked over on site so the work can be scoped properly.",
+        "img": "ba-worn-before",
+        "vf": "Inspection",
+        "pin": null,
+        "live": "Inspection",
+        "chip": "Inspection",
+        "flap": "INSPECTION"
+      },
+      {
+        "t": "Proposal",
+        "x": "You receive the scope of work and the price before anything starts.",
+        "img": "service-roof-repair",
+        "vf": "Proposal",
+        "pin": null,
+        "live": "Proposal",
+        "chip": "Proposal",
+        "flap": "PROPOSAL"
+      },
+      {
+        "t": "The work",
+        "x": "Work is scheduled at a time that suits you.",
+        "img": "service-roof-replacement",
+        "vf": "The work",
+        "pin": null,
+        "live": "The work",
+        "chip": "The work",
+        "flap": "THE WORK"
+      }
+    ]
+  },
+  "crew": {
+    "show": false,
+    "items": []
+  },
+  "stories": {
+    "show": false,
+    "eyebrow": "05 · Reviews",
+    "title": "What customers<br /><mark>say.</mark>",
+    "plateTitle": "Review",
+    "photoNote": "Illustrative photo",
+    "items": [
+      {
+        "addr": "Customer review",
+        "town": "Customer review",
+        "img": "ba-storm-after",
+        "days": "",
+        "stars": null,
+        "q": "TEST REVIEW. Only one review, so the reviews section must stay hidden.",
+        "name": "Test Reviewer C",
+        "where": ""
+      }
+    ]
+  },
+  "season": {
+    "show": false,
+    "towns": {},
+    "posts": []
+  },
+  "faq": {
+    "eyebrow": "05 · Questions",
+    "title": "Questions,<br /><mark>answered.</mark>",
+    "contactLead": "Didn’t see your question? Email",
+    "contactJoin": "or email",
+    "contactTail": "",
+    "cta": "Call us",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ]
+    ],
+    "items": [
+      {
+        "g": "all",
+        "q": "What services do you offer?",
+        "a": "Metal roofing, shingle roofing and skylight installation."
+      },
+      {
+        "g": "all",
+        "q": "Which areas do you serve?",
+        "a": "Gammaport, Test East, Test West and Test Harbor, ZZ."
+      },
+      {
+        "g": "all",
+        "q": "How do I get a free estimate?",
+        "a": "Use the form on this page, or email hello@gamma-roofing.invalid."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Free estimate",
+    "title": "Book a<br /><mark>roof visit.</mark>",
+    "body": "Choose a service and a time that suits you, and the team will be in touch to confirm.",
+    "cardTitle": "Book a free estimate",
+    "cardNote": "About 60 seconds",
+    "times": [
+      "9:00 am",
+      "11:00 am",
+      "1:00 pm",
+      "3:00 pm"
+    ],
+    "submit": "Request visit",
+    "thanks": "Thanks, <b>{name}</b>. This is a preview, so the form doesn't send yet.",
+    "under": null,
+    "callPrefix": "Or call"
+  },
+  "footer": {
+    "officeLabel": "Contact",
+    "companyTitle": "Company",
+    "newsletter": null
+  }
+}
